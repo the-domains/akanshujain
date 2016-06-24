@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[akanshuja.in]]></title>
+        <description><![CDATA[akanshuja.in]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 24 Jun 2016 06:03:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How I hacked my way to land a job.]]></title>
+            <description><![CDATA[<article><h1>How I hacked my way to land a job.</h1><p>Before I tell you the story about how I got myself a job at iflix, let me give you a brief introduction of myself. My name is Akanshu from India with a degree in hospitality from Switzerland. My hobbies include travelling and I have always nursed a dream.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a0b5b42100ec1b6e5ad7c22ce08701f9/noop.png?input=https%3A%2F%2Fmedia.licdn.com%2Fmpr%2Fmpr%2FAAEAAQAAAAAAAAmDAAAAJDI0Nzc2YTJmLWRhNWUtNDMxNi1hOWMyLTYwNTY0M2ZiODhhOQ.png"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/how-i-hacked-my-way-land-job-akanshu-jain?trk=prof-post</link>
+            <guid isPermaLink="false">768281b6-8af5-406a-b7ab-cf9e424b24de</guid>
+            <pubDate>Fri, 24 Jun 2016 06:03:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
