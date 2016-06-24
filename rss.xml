@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[akanshuja.in]]></title>
+        <description><![CDATA[akanshuja.in]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 24 Jun 2016 05:56:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How I hacked my way to land a job.]]></title>
+            <description><![CDATA[<article><h1>How I hacked my way to land a job.</h1><h2>Self-awareness</h2><p>Before I tell you the story about how I got myself a job at iflix, let me give you a brief introduction of myself. My name is Akanshu from India with a degree in hospitality from Switzerland. My hobbies include travelling and I have always nursed a dream. My dream was to own a restaurant where I will serve my customers the tastiest meals in a very lovely environment and hence my reason for studying hospitality. In fact I went ahead to work as an intern in restaurants and hotels but I lost my passion for this, as I felt that the industry was slow and wasn’t as engaging as I first thought.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c237cc15648d85b2006e6035ebfe9b02/croprotate.png?cropheight=1828&cropwidth=799&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fed1d9965-eec8-4690-a04b-ef4826cda109.png&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed1d9965-eec8-4690-a04b-ef4826cda109.png</link>
+            <guid isPermaLink="false">c466654c-f8ce-4cdc-8f02-e30f1f05c3e5</guid>
+            <pubDate>Fri, 24 Jun 2016 05:55:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
